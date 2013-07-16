@@ -1,0 +1,10 @@
+/home/michael/workspace/c/rtl-sdr/build/src/CMakeFiles/rtl_acars.dir
+/home/michael/workspace/c/rtl-sdr/build/src/CMakeFiles/rtl_adsb.dir
+/home/michael/workspace/c/rtl-sdr/build/src/CMakeFiles/rtl_eeprom.dir
+/home/michael/workspace/c/rtl-sdr/build/src/CMakeFiles/rtl_fm.dir
+/home/michael/workspace/c/rtl-sdr/build/src/CMakeFiles/rtl_sdr.dir
+/home/michael/workspace/c/rtl-sdr/build/src/CMakeFiles/rtl_tcp.dir
+/home/michael/workspace/c/rtl-sdr/build/src/CMakeFiles/rtl_test.dir
+/home/michael/workspace/c/rtl-sdr/build/src/CMakeFiles/rtlsdr_shared.dir
+/home/michael/workspace/c/rtl-sdr/build/src/CMakeFiles/rtlsdr_static.dir
+/home/michael/workspace/c/rtl-sdr/build/CMakeFiles/uninstall.dir

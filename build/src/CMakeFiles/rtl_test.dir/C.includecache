@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/rtl-sdr.h
+stdint.h
+-
+rtl-sdr_export.h
+-
+
+../include/rtl-sdr_export.h
+
+/home/michael/workspace/c/rtl-sdr/src/getopt/getopt.h
+ctype.h
+-
+
+/home/michael/workspace/c/rtl-sdr/src/rtl_test.c
+errno.h
+-
+signal.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+sys/time.h
+-
+time.h
+-
+unistd.h
+-
+Windows.h
+-
+getopt/getopt.h
+/home/michael/workspace/c/rtl-sdr/src/getopt/getopt.h
+rtl-sdr.h
+/home/michael/workspace/c/rtl-sdr/src/rtl-sdr.h
+

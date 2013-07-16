@@ -1,0 +1,1 @@
+/usr/bin/gcc  -O3 -DNDEBUG    CMakeFiles/rtl_test.dir/rtl_test.c.o  -o rtl_test -rdynamic librtlsdr.so.0.0.0 -lusb-1.0 -lpthread -lm -lrt -Wl,-rpath,/home/michael/workspace/c/rtl-sdr/build/src: 

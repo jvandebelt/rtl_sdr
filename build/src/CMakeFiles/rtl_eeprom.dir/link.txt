@@ -1,0 +1,1 @@
+/usr/bin/gcc  -O3 -DNDEBUG    CMakeFiles/rtl_eeprom.dir/rtl_eeprom.c.o  -o rtl_eeprom -rdynamic librtlsdr.so.0.0.0 -lusb-1.0 -lpthread -Wl,-rpath,/home/michael/workspace/c/rtl-sdr/build/src: 
